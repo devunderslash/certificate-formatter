@@ -1,4 +1,4 @@
-# long-cert-formatter
+# Vault long-cert-formatter
 
 This is a simple script to format a certificate in a long format. It is useful for formatting the certificates that are generated via vault commands similar to these:
 
